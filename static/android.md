@@ -9,7 +9,7 @@
 
 # 附录
 ## 场地信息   
-![Placecode](https://gitee.com/barlown/gym_item/raw/master/img_bed/place%20code.png) 
+![Placecode](https://s3.bmp.ovh/imgs/2023/02/27/05a410b11c9f1d00.png) 
    
 ## 软件下载地址
 https://wwak.lanzouo.com/b028b6hid  
