@@ -34,7 +34,7 @@ python版本分为Linux和Windows两种，主要是编译方式不同（已对�
 5. 使用windows定时任务。 [windows定时任务设定参考文档](https://blog.csdn.net/David_jiahuan/article/details/99960427)
 
 ## 附录-场地信息   
-![输入图片说明](https://gitee.com/barlown/gym_item/raw/master/img_bed/place%20code.png)  
+![输入图片说明](https://s3.bmp.ovh/imgs/2023/02/27/05a410b11c9f1d00.png)  
 
 
 
