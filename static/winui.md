@@ -14,6 +14,6 @@ https://www.123pan.com/s/HrvuVv-LD8DH.html
 提取码:ymqq   
 
 ## 软件截图  
-![登录界面](https://gitee.com/barlown/gym_item/raw/master/img_bed/login_ui.png)
-![主界面](https://gitee.com/barlown/gym_item/raw/master/img_bed/main_ui.png)
+![登录界面](https://s3.bmp.ovh/imgs/2023/02/27/41c70374700bed12.png)
+![主界面](https://s3.bmp.ovh/imgs/2023/02/27/d06fecc6d3e06e36.png)
 
