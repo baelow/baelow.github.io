@@ -8,7 +8,7 @@ python版本分为Linux和Windows两种，主要是编译方式不同（已对�
 2. 安装nodejs (自行百度)
 3. 安装python第三方库 `pip install -r requirements.txt` 
 4. 在index.py中输入必要信息
-5. 定时任务启动 `crond` 并部署任务。![https://linuxhandbook.com/start-stop-restart-cron/]。以下仅供参考
+5. 定时任务启动 `crond` 并部署任务。[crond帮助文件](https://linuxhandbook.com/start-stop-restart-cron/)   以下仅供参考
 ``` 
 29 7 * * 2,3 cd /home/ubuntu/obj/badminton;python index*.py>>/home/ubuntu/obj/badminton/vpn_book.log 2>&1
 # 分钟 小时 每周的周二周三 （执行index.py程序）运行日志在/home/ubuntu/obj/badminton/vpn_book.log中
@@ -31,7 +31,7 @@ python版本分为Linux和Windows两种，主要是编译方式不同（已对�
 2. 安装nodejs (自行百度)
 3. 安装python第三方库 `pip install -r requirements.txt` 
 4. 在index.py中输入必要信息
-5. 使用windows定时任务。 ![https://blog.csdn.net/David_jiahuan/article/details/99960427]
+5. 使用windows定时任务。 [windows定时任务设定参考文档](https://blog.csdn.net/David_jiahuan/article/details/99960427)
 
 ## 附录-场地信息   
 ![输入图片说明](https://gitee.com/barlown/gym_item/raw/master/img_bed/place%20code.png)  
