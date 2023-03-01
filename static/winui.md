@@ -2,7 +2,7 @@
 ## 简介
 回归经典 体验原汁原味的乐趣 不多说 自取 经典版 精简 没有花里花哨的玩意
 ## 下载地址
-https://www.123pan.com/s/HrvuVv-C88DH.html            提取码:qqqq
+https://www.123pan.com/s/HrvuVv-r88DH.html     提取码:qqqq
      
      
 # WINDOWS客户端说明
